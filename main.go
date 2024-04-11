@@ -32,7 +32,7 @@ var validConfig = []byte(`{
 func main(){
 	var password = "John" //type is string
 	var username string = "John" //type is string
-	secret_key := "DCJNSKDJNCDKJSNVKSJNKJSDNC"
+	secret_key := "a3b1c4d3e5f60789abcd2345ef678901"
 	h := md4.New()
 	data := "These pretzels are making me thirsty."
 	io.WriteString(h, data)
