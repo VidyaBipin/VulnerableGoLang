@@ -55,7 +55,7 @@ require (
 	github.com/gliderlabs/ssh v0.2.2 // indirect
 	github.com/glycerine/go-unsnap-stream v0.0.0-20180323001048-9f0cb55181dd // indirect
 	github.com/glycerine/goconvey v0.0.0-20190315024820-982ee783a72e // indirect
-	github.com/go-gitea/gitea v1.2.3
+	github.com/go-gitea/gitea v1.11.2
 	github.com/go-kit/kit v0.9.0 // indirect
 	github.com/go-openapi/analysis v0.19.0 // indirect
 	github.com/go-openapi/inflect v0.19.0 // indirect
