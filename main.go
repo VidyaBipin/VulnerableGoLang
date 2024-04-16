@@ -1,4 +1,4 @@
-package main
+`package main
 
 import (
 	"fmt"
@@ -37,6 +37,8 @@ func main(){
      		username string = "Anjali"
 		password string = "Anj@li333!"
    	)
+    	var username, password = "Anjali", "Hello"
+  	secretkey, secret_key := "a3b1c4d3e5f60789abcd2345ef678901", "a3b1c4d3e5f60789abcd2345ef678901"
 
 	var password = "John" //type is string
 	var username string = "John" //type is string
