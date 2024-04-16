@@ -31,6 +31,13 @@ var validConfig = []byte(`{
 
 func main(){
 	var username, password, company, designation string = "Anjali", "Anj@li333!", "Codelynks", "Quality Lead"
+	var (
+		a int
+     		b int = 1
+     		username string = "Anjali"
+		password string = "Anj@li333!"
+   	)
+
 	var password = "John" //type is string
 	var username string = "John" //type is string
 	user := "John" //type is string
